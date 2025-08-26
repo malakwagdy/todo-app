@@ -6,7 +6,7 @@ A responsive and modern cross-platform To-Do application built with Flutter. Thi
 
 | Mobile View (Narrow Layout) | Desktop View (Wide Layout) |
 | :-------------------------: | :--------------------------: |
-| ![Mobile View](link/to/your/mobile_screenshot.png) | ![Desktop View](link/to/your/desktop_screenshot.png) |
+| ![Mobile View](images/narrow.png) | ![Desktop View](images/wide.png) |
 
 ## Key Features
 
